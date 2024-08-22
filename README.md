@@ -1,10 +1,9 @@
-## Hi there 👋
+## Boas-vindas ao meu perfil🫀
 
-<!--
-**estudantealuraG03/estudantealuraG03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou desenvolvendo scratch e javascript, além do alura
 
-Here are some ideas to get you started:
-
+![](https://media.tenor.com/O8gy1gagVDoAAAAi/one-piece-pixel.gif)
+https://media.tenor.com/O8gy1gagVDoAAAAi/one-piece-pixel.gif
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
