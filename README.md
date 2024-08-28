@@ -1,5 +1,5 @@
 ## Boas-vindas ao meu perfil🫀
-
+Meu nome é Guilherme.
 Estou desenvolvendo scratch e javascript, além do alura
 
 ![](https://media.tenor.com/O8gy1gagVDoAAAAi/one-piece-pixel.gif)
