@@ -4,6 +4,12 @@ Estou desenvolvendo scratch e javascript, além do alura
 
 ![](https://media.tenor.com/O8gy1gagVDoAAAAi/one-piece-pixel.gif)
 https://media.tenor.com/O8gy1gagVDoAAAAi/one-piece-pixel.gif
+
+currículo
+
+https://drive.google.com/drive/home
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
